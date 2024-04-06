@@ -20,12 +20,11 @@
 <!-- My skills -->
 <h3>⚡ My skills:</h3>
 
-<a href="https://github.com/BogdanKlimov11/C_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/48f55978-905a-4e1c-a6b4-2bacc74fbedc" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/C_plus_plus_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cd95a93e-00fa-4bfe-bdac-75efc5f08a3a" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/C_sharp_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f57b9084-de1b-446e-bda7-7d03c47104f2" alt="C#" title="C#" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" title="MatLab" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/LaTex_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Bash_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Python_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d94bbe7d-57d1-4bc0-b824-f25637441f6f" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/48f55978-905a-4e1c-a6b4-2bacc74fbedc" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cd95a93e-00fa-4bfe-bdac-75efc5f08a3a" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/MATLAB"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" title="MatLab" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/LaTeX"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d94bbe7d-57d1-4bc0-b824-f25637441f6f" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
 <br>
